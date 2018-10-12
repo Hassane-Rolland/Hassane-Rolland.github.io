@@ -54,18 +54,48 @@ Figure 1: Un superbe graphique en camembert.
     </item>
     
     <item>
-      <title>Mon premier blog</title>
+      <title>Markdown test</title>
       <link>/post/getting-started/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
       
       <guid>/post/getting-started/</guid>
       <description>
 
-&lt;p&gt;Le contenu ici&lt;/p&gt;
+&lt;p&gt;Quick test&lt;/p&gt;
 
-&lt;h2 id=&#34;un-titre&#34;&gt;Un titre&lt;/h2&gt;
+&lt;h2 id=&#34;comparative-table&#34;&gt;Comparative table&lt;/h2&gt;
 
-&lt;p&gt;Du texte &lt;strong&gt;avec une partie en gras&lt;/strong&gt;...&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;Eukaryotic cell&lt;/th&gt;
+&lt;th&gt;Prokaryotic cell&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Nucleus&lt;/td&gt;
+&lt;td&gt;Present&lt;/td&gt;
+&lt;td&gt;Absent&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Mitochondria&lt;/td&gt;
+&lt;td&gt;Present&lt;/td&gt;
+&lt;td&gt;Absent&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Example&lt;/td&gt;
+&lt;td&gt;Humans&lt;/td&gt;
+&lt;td&gt;Bacteria&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;This table could be better, longer and more complete but this is &lt;strong&gt;just a test&lt;/strong&gt;&lt;/p&gt;
 </description>
     </item>
     

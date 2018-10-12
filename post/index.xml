@@ -23,13 +23,13 @@ par(mar = c(0, 1, 0, 1))pie(c(280, 60, 20),c(&amp;#39;Sky&amp;#39;, &amp;#39;
     </item>
     
     <item>
-      <title>Mon premier blog</title>
+      <title>Markdown test</title>
       <link>/post/getting-started/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
       
       <guid>/post/getting-started/</guid>
-      <description>Le contenu ici
-Un titre Du texte avec une partie en gras...</description>
+      <description>Quick test
+Comparative table     Eukaryotic cell Prokaryotic cell     Nucleus Present Absent   Mitochondria Present Absent   Example Humans Bacteria    This table could be better, longer and more complete but this is just a test</description>
     </item>
     
   </channel>
