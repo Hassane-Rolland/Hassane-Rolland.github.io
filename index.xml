@@ -72,7 +72,7 @@
 &lt;/tbody&gt;
 &lt;/table&gt;
 
-&lt;p&gt;This table could be better, longer and more complete but this is &lt;strong&gt;just a test&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;This table could be better, &lt;span style=&#34;color:grey&#34;&gt;longer&lt;/span&gt; and &lt;span style=&#34;color:grey&#34;&gt;more complete&lt;/span&gt; but this is &lt;span style=&#34;color:grey&#34;&gt;just a test&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
 </description>
     </item>
     
