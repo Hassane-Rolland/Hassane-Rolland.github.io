@@ -13,16 +13,6 @@
     
     
     <item>
-      <title>R Markdown test</title>
-      <link>/post/2018-10-13-r-markdown-test/</link>
-      <pubDate>Sat, 13 Oct 2018 00:00:00 +0200</pubDate>
-      
-      <guid>/post/2018-10-13-r-markdown-test/</guid>
-      <description>Quick test
-Comparative table     Eukaryotic cell Prokaryotic cell     Nucleus Present Absent   Mitochondria Present Absent   Example Humans Bacteria    This table could be better, longer and more complete but this is just a test</description>
-    </item>
-    
-    <item>
       <title>Markdown test</title>
       <link>/post/getting-started/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
