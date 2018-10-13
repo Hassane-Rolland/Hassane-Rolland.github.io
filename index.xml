@@ -11,6 +11,52 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>R Markdown test</title>
+      <link>/post/2018-10-13-r-markdown-test/</link>
+      <pubDate>Sat, 13 Oct 2018 00:00:00 +0200</pubDate>
+      
+      <guid>/post/2018-10-13-r-markdown-test/</guid>
+      <description>
+
+&lt;p&gt;Quick test&lt;/p&gt;
+
+&lt;h2 id=&#34;comparative-table&#34;&gt;Comparative table&lt;/h2&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;Eukaryotic cell&lt;/th&gt;
+&lt;th&gt;Prokaryotic cell&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Nucleus&lt;/td&gt;
+&lt;td&gt;Present&lt;/td&gt;
+&lt;td&gt;Absent&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Mitochondria&lt;/td&gt;
+&lt;td&gt;Present&lt;/td&gt;
+&lt;td&gt;Absent&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Example&lt;/td&gt;
+&lt;td&gt;Humans&lt;/td&gt;
+&lt;td&gt;Bacteria&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&lt;strong&gt;This table could be better, &lt;span style=&#34;color:grey&#34;&gt;longer&lt;/span&gt; and &lt;span style=&#34;color:grey&#34;&gt;more complete&lt;/span&gt; but this is &lt;span style=&#34;color:grey&#34;&gt;just a test&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>My project</title>
       <link>/project/example-project/</link>
       <pubDate>Mon, 24 Sep 2018 00:00:00 +0000</pubDate>
