@@ -13,12 +13,14 @@
     
     
     <item>
-      <title>My project</title>
+      <title>Spider webs</title>
       <link>/project/example-project/</link>
       <pubDate>Mon, 24 Sep 2018 00:00:00 +0000</pubDate>
       
       <guid>/project/example-project/</guid>
-      <description>Here I describe my project using Markdown formatting...</description>
+      <description>image by: Dav92ide
+45,700 (in November 2015) spider species were recorded by taxonomists. With that amount of species, you can guess that they have different ways of hunting. Some spiders run to hunt, some wait on their web or hidden beneath the ground. There is plenty of web types but I am going to write only about the orb webs.
+First of all, let’s mention the web. It is made of spider silk, a protein fibre with awesome mechanical properties.</description>
     </item>
     
   </channel>
