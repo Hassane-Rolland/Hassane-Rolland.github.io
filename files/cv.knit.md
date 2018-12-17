@@ -3,12 +3,11 @@ title: "CV"
 author: "Hassane Rolland"
 email: Hassane.RollandE@student.umons.ac.be
 output:
-  word_document: default
+  html_document:
+    df_print: paged
   pdf_document:
     latex_engine: pdflatex
     template: cv-latex.tex
-  html_document:
-    df_print: paged
 fontfamily: mathpazo
 fontfamilyoptions: sc, osf
 fontsize: 10pt
